@@ -13,7 +13,6 @@ License: GPL
 Requires: xmms >= 1.0.1
 BuildRequires: xmms-devel 
 BuildRequires: xmms
-BuildRoot: %{_tmppath}/%{name}-buildroot
 Provides: volnorm
 Obsoletes: volnorm
 
