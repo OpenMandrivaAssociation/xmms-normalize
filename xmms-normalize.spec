@@ -1,6 +1,6 @@
 %define name    xmms-normalize
 %define version 0.8.1
-%define release %mkrel 7
+%define release %mkrel 9
 
 Summary: Normalizing plugin for XMMS
 Name: %{name}
