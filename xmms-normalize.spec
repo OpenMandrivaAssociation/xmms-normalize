@@ -11,6 +11,11 @@ URL: https://volnorm.sourceforge.net/
 Source: volnorm-%{version}.tar.bz2 
 License: GPL
 Requires: xmms >= 1.0.1
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires: xmms-devel 
 BuildRequires: xmms
 BuildRoot: %{_tmppath}/%{name}-buildroot
